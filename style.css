@@ -1,5 +1,0 @@
-.parent:has(.btn:hover) .box {
-    background-color: green;
-    color: white;
-  }
-  
