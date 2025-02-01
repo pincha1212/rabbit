@@ -1,0 +1,8 @@
+body {
+    background: #56b5db;
+    font-size: 120%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
