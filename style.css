@@ -6,3 +6,16 @@ body {
     justify-content: center;
     height: 100vh;
   }
+
+/* Conejo */
+.rabbit {
+    width: 5em;
+    height: 3em;
+    background: #ffffff;
+    border-radius: 70% 90% 60% 50%;
+    position: relative;
+    box-shadow: -0.2em 1em 0 -0.75em #b78e81;
+    transform: rotate(0deg) translate(-2em, 0);
+    animation: hop 1s infinite linear;
+    z-index: 1;
+  }
